@@ -4,10 +4,10 @@ This repository is part of FOSS Lab according to Kerala Technological University
 
 FOSS Lab Experiment
 
-Name: Franklin Antony
+Name: Dona Anna Reji
 
 Class :S4 CSE Beta
 
-Roll No : 9
+Roll No : 2
 
-Reg No : RET15CS075
+Reg No : RET15CS068
